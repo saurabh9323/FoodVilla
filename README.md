@@ -34,35 +34,6 @@ To get started with FoodVilla, follow these steps:
 
 4. Open [http://localhost:3000](http://localhost:5173) in your browser.
 
-## Folder Structure mostly similar like this only 
-
-foodvilla/
-├── src/
-│ ├── components/
-│ │ ├── Header.js
-│ │ ├── RestaurantList.js
-│ │ ├── RestaurantCard.js
-│ │ ├── Cart.js
-│ │ └── ...
-│ ├── pages/
-│ │ ├── Home.js
-│ │ ├── Restaurant.js
-│ │ ├── CartPage.js
-│ │ └── ...
-│ ├── App.js
-│ ├── index.js
-│ ├── store/
-│ │ ├── actions.js
-│ │ ├── reducers.js
-│ │ ├── store.js
-│ │ └── ...
-│ ├── styles/
-│ │ ├── tailwind.css
-│ │ └── ...
-└── ...
-
-
-
 
 
 ## Contributing
